@@ -29,3 +29,9 @@ Other things that I used in vue
 - run `npm run serve` to start development
 - to build bundle, run `npm run build`, it will automatically replace/add laravel view, js and css files.
 - generate fake data from tinker by running `App\Models\MiniMail::factory()->count(110)->create();` command
+
+### Screenshots
+![Mail search dashboard](./screenshots/mail-dashboard-filter.png "Mail search dashboard")
+![Mail send](./screenshots/send-mail.png "Mail send")
+![Mail view](./screenshots/mail-view.png "Mail view")
+![Inbox view](./screenshots/inbox.png "inbox view")
